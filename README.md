@@ -6,7 +6,7 @@
 ### 🚀 I’m currently working on:
 Architecting and building robust Android applications using **Kotlin**, **Jetpack Compose**, and modern asynchronous programming with **Coroutines & Flow**. I focus on implementing Clean Architecture, SOLID principles, and modularizing apps for maximum scalability and testability.
 ### 🤝 I’m looking to collaborate on:
-<br/>Advanced Android open-source projects, performance profiling tools, and libraries that improve developer productivity or app responsiveness.
+Advanced Android open-source projects, performance profiling tools, and libraries that improve developer productivity or app responsiveness.
 ### 💬 Ask me about:
 Modern Android Stack (Kotlin, Compose, Hilt/Koin, Retrofit, Room), MVI/MVVM patterns, Unit & UI Testing, CI/CD pipelines for mobile, and optimizing app performance for low-end devices.
 ### 🌱 I’m currently learning:
