@@ -5,7 +5,6 @@
 
 ### 🚀 I’m currently working on:
 <sub>Architecting and building robust Android applications using **Kotlin**, **Jetpack Compose**, and modern asynchronous programming with **Coroutines & Flow**. I focus on implementing Clean Architecture, SOLID principles, and modularizing apps for maximum scalability and testability.</sub>
-
 <br/>
 ### 🤝 I’m looking to collaborate on:
 <sub>Advanced Android open-source projects, performance profiling tools, and libraries that improve developer productivity or app responsiveness.</sub>
@@ -13,11 +12,8 @@
 ### 💬 Ask me about:
 <sub>Modern Android Stack (Kotlin, Compose, Hilt/Koin, Retrofit, Room), MVI/MVVM patterns, Unit & UI Testing, CI/CD pipelines for mobile, and optimizing app performance for low-end devices.</sub>
 <br/>
-
 ### 🌱 I’m currently learning:
 <sub>Deep diving into advanced system design, exploring **Multi-platform development (KMP)**, and refining my skills in technical leadership and mentoring junior developers to ensure code excellence.</sub>
-
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ahmedmashal5074) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-mashal-348092159/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@amashal352) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amashal352@gmail.com) 
