@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="my logo.png" alt="Ahmed Banner" width="100%">
+</p>
 # 💫 About Me:
 🚀 I’m currently working on:<br>Architecting and building robust Android applications using Kotlin, Jetpack Compose, and modern asynchronous programming with Coroutines & Flow. I focus on implementing Clean Architecture, SOLID principles, and modularizing apps for maximum scalability and testability.<br><br>🤝 I’m looking to collaborate on:<br>Advanced Android open-source projects, performance profiling tools, and libraries that improve developer productivity or app responsiveness.<br><br>💬 Ask me about:<br>Modern Android Stack (Kotlin, Compose, Hilt/Koin, Retrofit, Room), MVI/MVVM patterns, Unit & UI Testing, CI/CD pipelines for mobile, and optimizing app performance for low-end devices.<br><br>🌱 I’m currently learning:<br>Deep diving into advanced system design, exploring Multi-platform development (KMP), and refining my skills in technical leadership and mentoring junior developers to ensure code excellence.<br>
 
