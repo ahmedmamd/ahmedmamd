@@ -1,8 +1,8 @@
 <p align="center">
   <img src="my logo.png" alt="Ahmed Banner" width="100%">
 </p>
-<br/>
-### 💫 About Me:
+
+# 💫 About Me:
 
 ### 🚀 I’m currently working on:
 Architecting and building robust Android applications using **Kotlin**, **Jetpack Compose**, and modern asynchronous programming with **Coroutines & Flow**. I focus on implementing Clean Architecture, SOLID principles, and modularizing apps for maximum scalability and testability.
